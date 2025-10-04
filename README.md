@@ -6,9 +6,6 @@
 
 ### 💻 Skills
 <p align="left">
-    <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/"> 
-        <img src="https://skillicons.dev/icons?i=cs"/> 
-    </a>
     <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,css,html,js,mysql,postgres"/>
 </p>
 ---
