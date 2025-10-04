@@ -14,10 +14,10 @@
 ### 📫 Socials
 
 <p align="left">
-  <a href="[ССЫЛКА_НА_ВАШ_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/aleksandr-mikhalkov-43212b359/" target="_blank">
     <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230a66c2" width="50" height="50"/>
   </a>
-  <a href="[ССЫЛКА_НА_ВАШ_TELEGRAM]" target="_blank">
+  <a href="https://t.me/sashkaa_a_a" target="_blank">
     <img src="https://api.iconify.design/mdi/telegram.svg?color=%2326a5e4" width="50" height="50"/>
   </a>
 </p>
