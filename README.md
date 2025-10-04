@@ -17,6 +17,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="[ССЫЛКА_НА_ВАШ_TELEGRAM]" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,css,html,js,mysql,postgres"/>
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="telegram" width="40" height="40"/>
   </a>
 </p>
