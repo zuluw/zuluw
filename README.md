@@ -25,7 +25,7 @@
 
 <p align="left">
 <a href="[ССЫЛКА НА ВАШ TELEGRAM]" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="telegram" height="30" width="40" /></a>
-<a href="[ССЫЛКА НА ВАШ LINKEDIN]" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksandr-mikhalkov-43212b359/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
