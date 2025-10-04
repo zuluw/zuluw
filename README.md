@@ -14,13 +14,9 @@
 
 <p align="left">
   <a href="[ССЫЛКА_НА_ВАШ_LINKEDIN]" target="_blank">
-    <!-- Иконка LinkedIn из Iconify -->
-    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230a66c2" alt="linkedin" width="40" height="40"/>
-    <br>_._
-  </a>&nbsp;
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230a66c2"/>
+  </a>
   <a href="[ССЫЛКА_НА_ВАШ_TELEGRAM]" target="_blank">
-    <!-- Иконка Telegram из Iconify -->
-    <img src="https://api.iconify.design/mdi/telegram.svg?color=%2326a5e4" alt="telegram" width="40" height="40"/>
-    <br>_._
-  </a>&nbsp;
+    <img src="https://api.iconify.design/mdi/telegram.svg?color=%2326a5e4"/>
+  </a>
 </p>
