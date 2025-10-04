@@ -8,15 +8,16 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,css,html,js,mysql,postgres"/>
 </p>
+
 ---
 
 ### 📫 Socials
 
 <p align="left">
   <a href="[ССЫЛКА_НА_ВАШ_LINKEDIN]" target="_blank">
-    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230a66c2"/>
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230a66c2" width="50" height="50"/>
   </a>
   <a href="[ССЫЛКА_НА_ВАШ_TELEGRAM]" target="_blank">
-    <img src="https://api.iconify.design/mdi/telegram.svg?color=%2326a5e4"/>
+    <img src="https://api.iconify.design/mdi/telegram.svg?color=%2326a5e4" width="50" height="50"/>
   </a>
 </p>
