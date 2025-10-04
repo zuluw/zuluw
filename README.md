@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 Навыки
+### 💻 Skills
 
 <p align="left">
   <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a>
@@ -21,7 +21,7 @@
 
 ---
 
-### 📫 Как связаться со мной
+### 📫 Socials
 
 <p align="left">
 <a href="[ССЫЛКА НА ВАШ TELEGRAM]" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="telegram" height="30" width="40" /></a>
