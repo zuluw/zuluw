@@ -3,6 +3,7 @@
 *Student of BSUIR (Faculty of Computer Systems and Networks)*
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### 💻 Skills
 
