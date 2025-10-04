@@ -6,7 +6,7 @@
 
 ### 💻 Skills
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,css,html,js,mysql,postgres"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,docker,git,github,css,html,js"/>
 </p>
 
 ---
