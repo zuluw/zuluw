@@ -14,9 +14,11 @@
 
 <p align="left">
   <a href="[ССЫЛКА_НА_ВАШ_LINKEDIN]" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2"/>
+    <br>
+  </a>&nbsp;
   <a href="[ССЫЛКА_НА_ВАШ_TELEGRAM]" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="telegram" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/telegram/26A5E4"/>
+    <br>
   </a>
 </p>
