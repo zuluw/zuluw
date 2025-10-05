@@ -1,11 +1,8 @@
 # Alexandr Mikhalkov
 
-### 🎓 Education
-<p align="left">
-  <img src="https://api.iconify.design/mdi/school.svg?color=%230070c0" width="25" height="25"/>  
-  **BSUIR – Faculty of Computer Systems and Networks**  
-  Student, Software Development & Computer Networks
-</p>
+### 🎓 Education  
+**BSUIR – Faculty of Computer Systems and Networks**  
+
 ---
 
 ### 💻 Skills
