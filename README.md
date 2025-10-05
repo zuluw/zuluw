@@ -1,6 +1,6 @@
 # Alexandr Mikhalkov
 
-*Student of BSUIR (Faculty of Computer Systems and Networks)*
+## Student of BSUIR (Faculty of Computer Systems and Networks)
 
 ---
 
